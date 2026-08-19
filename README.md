@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/gourang02/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/gourang02/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/gourang02/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gourang02/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/gourang02/Leetcode/tree/master/0143-reorder-list) |
+## Math
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gourang02/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
