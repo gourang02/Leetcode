@@ -47,10 +47,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gourang02/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/gourang02/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/gourang02/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gourang02/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gourang02/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gourang02/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
