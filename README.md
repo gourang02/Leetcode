@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/gourang02/Leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/gourang02/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/gourang02/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/gourang02/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -68,4 +69,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/gourang02/Leetcode/tree/master/0155-min-stack) |
+## Array
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/gourang02/Leetcode/tree/master/0496-next-greater-element-i) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/gourang02/Leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/gourang02/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
