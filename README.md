@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/gourang02/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/gourang02/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/gourang02/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0897-increasing-order-search-tree](https://github.com/gourang02/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -87,12 +88,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gourang02/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/gourang02/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gourang02/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/gourang02/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gourang02/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/gourang02/Leetcode/tree/master/0897-increasing-order-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/gourang02/Leetcode/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
