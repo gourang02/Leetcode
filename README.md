@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/gourang02/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/gourang02/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/gourang02/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/gourang02/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/gourang02/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/gourang02/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Math
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gourang02/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0496-next-greater-element-i](https://github.com/gourang02/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/gourang02/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/gourang02/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/gourang02/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Tree
 |  |
 | ------- |
