@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/gourang02/Leetcode/tree/master/0148-sort-list) |
+| [0435-non-overlapping-intervals](https://github.com/gourang02/Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Merge Sort
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gourang02/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0435-non-overlapping-intervals](https://github.com/gourang02/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/gourang02/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gourang02/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/gourang02/Leetcode/tree/master/0739-daily-temperatures) |
@@ -134,9 +136,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/gourang02/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0907-sum-of-subarray-minimums](https://github.com/gourang02/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/gourang02/Leetcode/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/gourang02/Leetcode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
