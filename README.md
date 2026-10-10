@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/gourang02/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/gourang02/Leetcode/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/gourang02/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0942-di-string-match](https://github.com/gourang02/Leetcode/tree/master/0942-di-string-match) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gourang02/Leetcode/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/gourang02/Leetcode/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/gourang02/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0942-di-string-match](https://github.com/gourang02/Leetcode/tree/master/0942-di-string-match) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/gourang02/Leetcode/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/gourang02/Leetcode/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/gourang02/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0942-di-string-match](https://github.com/gourang02/Leetcode/tree/master/0942-di-string-match) |
 | [2104-sum-of-subarray-ranges](https://github.com/gourang02/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gourang02/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/gourang02/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/gourang02/Leetcode/tree/master/0860-lemonade-change) |
+| [0942-di-string-match](https://github.com/gourang02/Leetcode/tree/master/0942-di-string-match) |
 ## Quicksort
 |  |
 | ------- |
