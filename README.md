@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/gourang02/Leetcode/tree/master/0029-divide-two-integers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/gourang02/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1922-count-good-numbers](https://github.com/gourang02/Leetcode/tree/master/1922-count-good-numbers) |
 ## String
@@ -193,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/gourang02/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/gourang02/Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
