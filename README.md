@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/gourang02/Leetcode/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/gourang02/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0942-di-string-match](https://github.com/gourang02/Leetcode/tree/master/0942-di-string-match) |
+| [0997-find-the-town-judge](https://github.com/gourang02/Leetcode/tree/master/0997-find-the-town-judge) |
 | [2104-sum-of-subarray-ranges](https://github.com/gourang02/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/gourang02/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0496-next-greater-element-i](https://github.com/gourang02/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/gourang02/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0997-find-the-town-judge](https://github.com/gourang02/Leetcode/tree/master/0997-find-the-town-judge) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/gourang02/Leetcode/tree/master/0029-divide-two-integers) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/gourang02/Leetcode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
