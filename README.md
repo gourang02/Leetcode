@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/gourang02/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0907-sum-of-subarray-minimums](https://github.com/gourang02/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/gourang02/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2211-count-collisions-on-a-road](https://github.com/gourang02/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/gourang02/Leetcode/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/gourang02/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/gourang02/Leetcode/tree/master/0942-di-string-match) |
+| [2211-count-collisions-on-a-road](https://github.com/gourang02/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/gourang02/Leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/gourang02/Leetcode/tree/master/0844-backspace-string-compare) |
+| [2211-count-collisions-on-a-road](https://github.com/gourang02/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Breadth-First Search
 |  |
 | ------- |
