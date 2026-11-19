@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/gourang02/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/gourang02/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gourang02/Leetcode/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/gourang02/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gourang02/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gourang02/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/gourang02/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/gourang02/Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/gourang02/Leetcode/tree/master/0078-subsets) |
 ## Graph Theory
 |  |
 | ------- |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gourang02/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/gourang02/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
