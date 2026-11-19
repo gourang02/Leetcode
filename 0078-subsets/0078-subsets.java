@@ -4,19 +4,11 @@ import java.util.*;
 class Solution {
 
     public List<List<Integer>> subsets(int[] nums) {
-
-        // Step 1: Final answer store karna
-        List<List<Integer>> ans = new ArrayList<>();
-
-        // Step 2: Current subset store karna
+        List<List<Integer>> ans = new ArrayList<>();   
         List<Integer> temp = new ArrayList<>();
-
-        // Step 3: Recursion call
         solve(0, nums, temp, ans);
-
         return ans;
     }
-
     public void solve(int index, int[] nums,
                       List<Integer> temp,
                       List<List<Integer>> ans) {
